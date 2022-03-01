@@ -1,0 +1,126 @@
+id: P2CC3B2E3
+initial_creation_type: input
+source_metadata:
+  title: 'Nāgārjuna: Ratnāvalī'
+  language: en
+  volumes:
+    13e0ef2c20e641c59aa0843bdb9ae9b7:
+      title: CIII_Verses 1-20
+      base_file: CIII_Verses 1-20.txt
+      work_id: W3139CB33
+    6e99c03da1944ce58005bba8ca42895d:
+      title: CIII_Verses 21-40
+      base_file: CIII_Verses 21-40.txt
+      work_id: WAA2F5CDA
+    a70391a6574d4f68bf620805e2682beb:
+      title: CIII_Verses 41-60
+      base_file: CIII_Verses 41-60.txt
+      work_id: W4433B440
+    72238c026b8d4d02a670bde3baf5d759:
+      title: CIII_Verses 61-80
+      base_file: CIII_Verses 61-80.txt
+      work_id: W5A51EE52
+    15db1c32ca5b4b468bd83bf1172422df:
+      title: CIII_Verses 81-100
+      base_file: CIII_Verses 81-100.txt
+      work_id: W56CCE335
+    e5f2547ed34646ee835bb3cf916c2ea9:
+      title: CII_Verses 1-20
+      base_file: CII_Verses 1-20.txt
+      work_id: W4B63E6EE
+    1b009ede829446668391df0798647525:
+      title: CII_Verses 21-40
+      base_file: CII_Verses 21-40.txt
+      work_id: WD2317B16
+    694d161bbad34afb8535f104d1da2c55:
+      title: CII_Verses 41-60
+      base_file: CII_Verses 41-60.txt
+      work_id: WEBA4EBAE
+    bcee8ef1ae9c4153a1987390be6c1477:
+      title: CII_Verses 61-80
+      base_file: CII_Verses 61-80.txt
+      work_id: W41439B83
+    cd1d826366824757bbfc3742888e4153:
+      title: CII_Verses 81-100
+      base_file: CII_Verses 81-100.txt
+      work_id: W22AA88C4
+    10719a6686d84053b8b28ff4c8bda5c2:
+      title: CIV_Verses 1-20
+      base_file: CIV_Verses 1-20.txt
+      work_id: W48A7B331
+    adde280f2efa46f8aa97c0d3a2945366:
+      title: CIV_Verses 21-40
+      base_file: CIV_Verses 21-40.txt
+      work_id: W5C92303A
+    bb63c4a6208c4d7fbde78b0f4dd93bf5:
+      title: CIV_Verses 41-60
+      base_file: CIV_Verses 41-60.txt
+      work_id: W92922F3C
+    354395dbb95a4d19a45608f3bffeff20:
+      title: CIV_Verses 61-80
+      base_file: CIV_Verses 61-80.txt
+      work_id: WB5AC7FF7
+    f3c7a94b97d44054bc6f16db14be7a7b:
+      title: CIV_Verses 81-100
+      base_file: CIV_Verses 81-100.txt
+      work_id: W8878773C
+    71ceb23bfc394b889def06ca9222238e:
+      title: CI_Verses 1-20
+      base_file: CI_Verses 1-20.txt
+      work_id: W505D8021
+    c8bdcb456e0947a7ba355ad5dc32dffc:
+      title: CI_Verses 21-40
+      base_file: CI_Verses 21-40.txt
+      work_id: W94AD9CD0
+    1a6ee218ad2e4b808117d0c976ed30d0:
+      title: CI_Verses 41-60
+      base_file: CI_Verses 41-60.txt
+      work_id: W40ACC4A2
+    412e9a54b5774c3897c1e49761c5a422:
+      title: CI_Verses 61-80
+      base_file: CI_Verses 61-80.txt
+      work_id: W91401B49
+    cc59de9caa56419fb9a6ea0a98904f06:
+      title: CI_Verses 81-100
+      base_file: CI_Verses 81-100.txt
+      work_id: W88183146
+    f8cea8527e784167b37702ac73e6c4bb:
+      title: CV_Verses 1-20
+      base_file: CV_Verses 1-20.txt
+      work_id: W381DDD2F
+    6519fd5d7f42412f95a5fe02d5a26a7d:
+      title: CV_Verses 21-40
+      base_file: CV_Verses 21-40.txt
+      work_id: W7D5E2190
+    a879383cb75a40e1a3c785bdb3f99df3:
+      title: CV_Verses 41-60
+      base_file: CV_Verses 41-60.txt
+      work_id: WFEF5A47A
+    fd0c3f1ccb494f4b84dde0f7e7339f6c:
+      title: CV_Verses 61-80
+      base_file: CV_Verses 61-80.txt
+      work_id: W430BD73E
+    be0afd67599445619fc55f8ccf912647:
+      title: CV_Verses 81-100
+      base_file: CV_Verses 81-100.txt
+      work_id: W35B7A6E2
+    4fae4af5033c480cb74d04ca6b23cd42:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: W74B14046
+    16e648a0d6c947c0939eac8f64afd96e:
+      title: Preface
+      base_file: Preface.txt
+      work_id: W91EFCFC6
+    4c272b77c8de46e78bf5829a5afd5d12:
+      title: Title
+      base_file: Title.txt
+      work_id: WC2B632C6
+  chapter_to_tile:
+    CI: Chapter 1
+    CII: Chapter 2
+    CIII: Chapter 3
+    CIV: Chapter 4
+    CV: Chapter 5
+created_at: '2022-03-01T23:10:46.105019'
+last_modified_at: '2022-03-01T23:10:46.105026'
